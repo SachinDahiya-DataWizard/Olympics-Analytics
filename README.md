@@ -1,6 +1,12 @@
 # Olympics Analytics
 This repository contains the Olympics Analytics project, which focuses on analysing Olympic data to gain valuable insights into athlete performance, country comparisons, and historical trends. The project aims to provide a comprehensive understanding of the Olympic Games through exploratory data analysis, visualisation, and statistical modelling.
 
+Dashboard Link: [Olympics Analytics Dashboard](https://public.tableau.com/app/profile/sachin.dahiya/viz/OlympicsAnalyticsDashboard/OlympicsAnalyticsDashboard)
+
+Storyboard Link: [Olympics Analytics Storyboard](https://public.tableau.com/app/profile/sachin.dahiya/viz/OlympicsAnalyticsStory/OlympicsAnalyticsStory))
+
+DataSet Link: [Cyclistic's Historical Trip Data](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+
 # Project Overview
 The Olympics Analytics project is a data analysis project aimed at gaining valuable insights from Olympic data. It involves exploratory data analysis, visualisation, and statistical modelling to uncover trends and patterns in the Olympics. By analysing athlete performance, country comparisons, and historical data, this project provides a comprehensive understanding of the Olympic Games.
 
@@ -22,6 +28,6 @@ The Olympics Analytics project has immense potential for further exploration and
 # Contact
 For any questions, suggestions, or collaboration opportunities, feel free to reach out to the project maintainers:
 Name: Sachin Dahiya 
-GitHub: https://github.com/SachinDahiya-DataWizard
+GitHub: [Data Wizard](https://github.com/SachinDahiya-DataWizard)
 Email: sdsachindahiya7@gmail.com
 I welcome contributions and appreciate your interest in the Olympics Analytics project.
