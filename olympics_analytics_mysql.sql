@@ -202,4 +202,3 @@ HAVING Country IN ('USA' , 'China',
     'Canada',
     'South Korea')
 ORDER BY medal_count DESC;
-#------------------------------------------ TRIALS ----------------------------------------------------------
