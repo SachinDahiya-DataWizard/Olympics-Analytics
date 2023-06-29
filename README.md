@@ -1,4 +1,4 @@
-# Olympics Analytics
+# Olympics Analytics Project
 This repository contains the Olympics Analytics project, which focuses on analysing Olympic data to gain valuable insights into athlete performance, country comparisons, and historical trends. The project aims to provide a comprehensive understanding of the Olympic Games through in-depth data exploration, interactive dashboards, and predictive modelling.
 
 Dashboard Link: [Olympics Analytics Dashboard](https://public.tableau.com/app/profile/sachin.dahiya/viz/OlympicsAnalyticsDashboard/OlympicsAnalyticsDashboard)
