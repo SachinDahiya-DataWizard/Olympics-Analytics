@@ -1,1 +1,1 @@
-# Olympics-Analytics
+# Olympics Analytics
