@@ -3,7 +3,7 @@ This repository contains the Olympics Analytics project, which focuses on analys
 
 Dashboard Link: [Olympics Analytics Dashboard](https://public.tableau.com/app/profile/sachin.dahiya/viz/OlympicsAnalyticsDashboard/OlympicsAnalyticsDashboard)
 
-Storyboard Link: [Olympics Analytics Storyboard](https://public.tableau.com/app/profile/sachin.dahiya/viz/OlympicsAnalyticsStory/OlympicsAnalyticsStory))
+Storyboard Link: [Olympics Analytics Storyboard](https://public.tableau.com/app/profile/sachin.dahiya/viz/OlympicsAnalyticsStory/OlympicsAnalyticsStory)
 
 DataSet Link: [Cyclistic's Historical Trip Data](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
@@ -26,8 +26,12 @@ To get started with the project, you need to have MySQL and Tableau installed on
 The Olympics Analytics project has immense potential for further exploration and enhancement. Future developments may include incorporating machine learning techniques for predictive analysis, expanding the dataset to cover more Olympic events, and integrating real-time data feeds to keep the analysis up to date.
 
 # Contact
-For any questions, suggestions, or collaboration opportunities, feel free to reach out to the project maintainers:
+For any questions, suggestions, or collaboration opportunities, feel free to reach out to the project maintainer:
+
 Name: Sachin Dahiya 
+
 GitHub: [Data Wizard](https://github.com/SachinDahiya-DataWizard)
+
 Email: sdsachindahiya7@gmail.com
+
 I welcome contributions and appreciate your interest in the Olympics Analytics project.
