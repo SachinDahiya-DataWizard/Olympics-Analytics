@@ -1,5 +1,5 @@
 # Olympics Analytics
-This repository contains the Olympics Analytics project, which focuses on analysing Olympic data to gain valuable insights into athlete performance, country comparisons, and historical trends. The project aims to provide a comprehensive understanding of the Olympic Games through exploratory data analysis, visualisation, and statistical modelling.
+This repository contains the Olympics Analytics project, which focuses on analysing Olympic data to gain valuable insights into athlete performance, country comparisons, and historical trends. The project aims to provide a comprehensive understanding of the Olympic Games through in-depth data exploration, interactive dashboards, and predictive modelling.
 
 Dashboard Link: [Olympics Analytics Dashboard](https://public.tableau.com/app/profile/sachin.dahiya/viz/OlympicsAnalyticsDashboard/OlympicsAnalyticsDashboard)
 
@@ -8,7 +8,7 @@ Storyboard Link: [Olympics Analytics Storyboard](https://public.tableau.com/app/
 DataSet Link: [Cyclistic's Historical Trip Data](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
 # Project Overview
-The Olympics Analytics project is a data analysis project aimed at gaining valuable insights from Olympic data. It involves exploratory data analysis, visualisation, and statistical modelling to uncover trends and patterns in the Olympics. By analysing athlete performance, country comparisons, and historical data, this project provides a comprehensive understanding of the Olympic Games.
+The Olympics Analytics project is a data-driven initiative that aims to unlock hidden insights from Olympic data. By employing advanced exploratory data analysis techniques, developing interactive dashboards, and applying predictive modelling, this project uncovers intricate patterns and correlations within the Olympics. Through an examination of athlete performance, country comparisons, and historical trends, it provides a multifaceted understanding of the Olympic Games and enables evidence-based decision-making for various stakeholders.
 
 # Data Source
 The project utilises publicly available Olympic datasets, including historical records of athletes, countries, events, and results. The data is sourced from reliable Olympic databases and is properly attributed and documented within the project.
