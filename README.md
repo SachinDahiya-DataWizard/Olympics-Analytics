@@ -20,7 +20,7 @@ The project primarily uses MySQL for data querying and database management. Tabl
 Through rigorous analysis, the Olympics Analytics project unveils key insights into athlete performance, medal standings, historical trends, and more. The results are presented in the form of visually appealing charts, graphs, and dashboards, providing a user-friendly and intuitive way to interpret the findings.
 
 # Getting Started
-To get started with the project, you need to have MySQL and Tableau installed on your machine. Import the provided Olympic dataset into your MySQL database, and use SQL queries to analyse and extract the required information. Then, connect Tableau to the MySQL database and import the relevant tables to create interactive visualisations. Detailed instructions can be found in the project's documentation.
+To get started with the project, you can access the dashboard using the link below: [Olympics Analytics Dashboard](https://public.tableau.com/app/profile/sachin.dahiya/viz/OlympicsAnalyticsDashboard/OlympicsAnalyticsDashboard)
 
 # Future Scope
 The Olympics Analytics project has immense potential for further exploration and enhancement. Future developments may include incorporating machine learning techniques for predictive analysis, expanding the dataset to cover more Olympic events, and integrating real-time data feeds to keep the analysis up to date.
